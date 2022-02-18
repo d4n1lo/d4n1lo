@@ -1,4 +1,4 @@
-### Olá me chamo Danilo! 👋
+### Olá... me chamo Danilo! 👋
 
 
 - 🔭 Atualmente estou em busca de experiências em front-end ...
